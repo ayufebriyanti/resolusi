@@ -2,3 +2,5 @@ resolusi
 saya konsistent untuk membuat program
 membuat dan memahami github dan git
 membuat forum diskusi
+kedepannya akan membuat codingan
+kolabolari team
